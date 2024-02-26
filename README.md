@@ -27,17 +27,17 @@ Random Over Sampling: This is one method of resampling technique in order to obt
 
 
 ## Results
-Machine Learing Model 1:
-    - Accuracy: 96.80%
-    - Precision: Healthy loans (100%), High-risk loans (84%)
-    - Recall: Healthy loans (99%), High-risk loans (94%)
+Machine Learing Model 1: <br>
+- Accuracy: 96.80%
+- Precision: Healthy loans (100%), High-risk loans (84%)
+- Recall: Healthy loans (99%), High-risk loans (94%)
 
 <br>
 
-Machine Learning Model 2 (with random over sampling):
-    - Accuracy: 99.36%
-    - Precision: Healthy loans (100%), High-risk loans (84%)
-    - Recall: Healthy loans (99%), High-risk loans (99%) 
+Machine Learning Model 2 (with random over sampling): <br>
+- Accuracy: 99.36%
+- Precision: Healthy loans (100%), High-risk loans (84%)
+- Recall: Healthy loans (99%), High-risk loans (99%) 
 
 
 ## Summary
